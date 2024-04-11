@@ -7,6 +7,7 @@
 |  Web Moon  | Raven 0.0.1 -- | Forked: Git Dump Kit |
 |  Bakunawa  | Raven 0.0.1 -- |  Origins: WAF Dev Kit  |
 | Solid Lime | Raven 0.0.1 -- |  Origins: C2 Tool Kit  |
+| Sting Rate | Raven 0.0.1 -- | Origins: Boot Leg Rgx |
 
 #### All Data here are found at:
 
