@@ -10,6 +10,8 @@
 |   Sting Rate   | Raven 0.0.1 -- | Origins: Boot Leg Rgex |
 | Oriental Pearl | Raven 0.0.1 -- | Origins: Deceit Mssgng |
 | Lizard Poison | Raven 0.0.1 -- | Origins: Comms Handler |
+| Cross Bind | Raven 0.0.1 -- | Origins: Blade Router |
+| Grey Fang | Raven 0.0.1 -- | Origins: README Automation |
 
 #### All Data here are found at:
 
