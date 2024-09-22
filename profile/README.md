@@ -9,7 +9,7 @@
 | Solid Lime | Raven 0.0.1 -- | Origins: C2 Toolkit and DDoS |
 | Sting Rate | Raven 0.0.1 -- | Origins: Bootleg Regex |
 | Oriental Pearl | Raven 0.0.1 -- | Origins: Deceit Messaging |
-| Lizard Poison | Raven 0.0.1 -- | Origins: Comms Handler |
+| Lizard Poison | Raven 0.0.1 -- | Origins: Communications Handler |
 | Cross Bind | Raven 0.0.1 -- | Origins: Blade Router |
 | Grey Fang | Raven 0.0.1 -- | Origins: README Automation |
 
